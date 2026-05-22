@@ -24,6 +24,7 @@ Thymeleaf improves this point, making HTML much easier to
 understand.
 Web
 You can use SpringMVC to develop web applications.
+
 Note: About Maven
 When you create a SpringBoot project, it contains a project
 management tool called Maven.
